@@ -10,7 +10,7 @@ This repository contains the Java implementation of Lamport's Algorithm. The det
 
 ## Instructions to Run
 
-# Prerequisites for running 
+### Prerequisites for running 
 1. `JDK version > 18.0`
 2.  Code Editor - `(vsCode or IntelliJ)`
 
