@@ -4,11 +4,15 @@
 - Thadicherla Hrishith (20CS02002)
 - P.R.R Sumiran Adithya (20CS1014)
 - Mallela Sathvik (20CS01061)
-
+  
 ## Overview
 This repository contains the Java implementation of Lamport's Algorithm. The detailed explanation for the code can be found in the report file `20CS02002_20CS01014_20CS01061_CC_Assignment.pdf`.
 
 ## Instructions to Run
+
+# Prerequisites for running 
+1. `JDK version > 18.0`
+2.  Code Editor - `(vsCode or IntelliJ)`
 
 ### Files
 There are two main files in this repository:
