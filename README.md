@@ -26,7 +26,7 @@ There are two main files in this repository:
     - After running both files, you will see prompts to enter port numbers.
     - Once you run them both you will see something like this
     - ![image](https://github.com/Darkphantom323/20CS02002_20CS01014_20CS01061_Lamport_Algo/assets/99313418/98dea9bd-05aa-4b9d-867b-83d95f8095a1)
-    - After you enter the port numbers you will se the option to do various things.
+    - After you enter the port numbers you will see the option to do various things.
     - ![Enter Port Numbers](https://github.com/Darkphantom323/20CS02002_20CS01014_20CS01061_Lamport_Algo/assets/99313418/01a043bf-8233-4fae-967e-67169daa1b73)
 
 4. **Running on Multiple Devices**:
