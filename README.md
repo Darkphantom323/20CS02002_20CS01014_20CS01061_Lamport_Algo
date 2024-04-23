@@ -2,7 +2,7 @@
 
 ## Authors
 - Thadicherla Hrishith (20CS02002)
-- P.R.R Sumiran Adithya (20CS1014)
+- P.R.R Sumiran Adithya (20CS01014)
 - Mallela Sathvik (20CS01061)
   
 ## Overview
