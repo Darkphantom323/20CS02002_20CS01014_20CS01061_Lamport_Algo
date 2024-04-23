@@ -35,7 +35,7 @@ There are two main files in this repository:
 
 4. **Running on Multiple Devices**:
     - You can run the algorithm on three separate devices.
-    - Input can either be hardcoded into the code or taken as input using a Scanner. We have chosen not to for easier debugging.
+    - In that case Ip address has to be either be hardcoded into the code or taken as input using a Scanner. We have chosen not to for easier debugging.
 
 
 ## Conclusion
